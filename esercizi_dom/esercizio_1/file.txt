@@ -1,0 +1,19 @@
+Scrivere una funzione che prenda 
+in ingresso un array di oggetti. 
+Ciascun oggetto deve rappresentare 
+un vostro buddy e deve avere come 
+proprieta' il nome ed il cognome. 
+La funzione dovra' restituire un 
+nuovo array di stringhe con i nomi dei buddy
+
+
+Esempio.   
+
+input=[{nome: 'Matteo', cognome:'Sisto'} , 
+
+{nome:'Angela', cognome:'Aruanno'}, 
+
+{nome:'Marco', cognome:'Dentamaro'}]       
+
+
+output=['Matteo', 'Angela', 'Marco']

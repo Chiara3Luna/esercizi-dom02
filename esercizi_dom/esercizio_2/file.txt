@@ -1,0 +1,6 @@
+Scrivere un oggetto che rappresenti una playlist. 
+Questo oggetto dovra' avere una proprieta' che 
+rappresenti una lista di canzoni e ciascuna 
+sara' un oggetto con titolo della canzone e nome dell'autore. 
+Implementare un metodo che mi permetta 
+di aggiungere una nuova canzone.

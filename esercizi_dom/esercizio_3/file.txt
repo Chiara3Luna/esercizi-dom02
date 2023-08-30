@@ -1,0 +1,10 @@
+Manipoliamo il DOM. 
+Dato un array di nomi 
+(i nomi dei vostri buddy vanno benissimo) 
+realizzare una navbar in html 
+(va benissimo la navbar di bootstrap). 
+In questa navbar aggiungete il dropdown 
+(e' gia' presente nella navbar di bootstrap). 
+Attraverso JS fare in modo che cliccando 
+sul dropdown appaiano i nomi 
+che avete inserito nell'array con i nomi
